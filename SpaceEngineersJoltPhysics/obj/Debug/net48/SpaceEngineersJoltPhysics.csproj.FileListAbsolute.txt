@@ -17,3 +17,4 @@
 /home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/SpaceEngineersJoltPhysics/obj/Debug/net48/SpaceEng.2EAE7A4C.Up2Date
 /home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/SpaceEngineersJoltPhysics/obj/Debug/net48/SpaceEngineersJoltPhysics.dll
 /home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/SpaceEngineersJoltPhysics/obj/Debug/net48/SpaceEngineersJoltPhysics.pdb
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/SpaceEngineersJoltPhysics/obj/Debug/net48/SpaceEngineersJoltPhysics.sourcelink.json

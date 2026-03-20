@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Havok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc9f274f22678a58cda1d12824db081bbcec8beb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Havok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Havok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

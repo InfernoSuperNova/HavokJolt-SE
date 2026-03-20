@@ -12,3 +12,4 @@
 /home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/obj/Debug/net48/Havok.csproj.Up2Date
 /home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/obj/Debug/net48/Havok.dll
 /home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/obj/Debug/net48/Havok.pdb
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/obj/Debug/net48/Havok.sourcelink.json

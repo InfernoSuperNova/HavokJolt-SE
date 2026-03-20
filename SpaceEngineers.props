@@ -57,10 +57,7 @@
             <HintPath>$(SEBinDir)/GameAnalytics.Mono.dll</HintPath>
             <Private>false</Private>
         </Reference>
-        <Reference Include="HavokWrapper">
-            <HintPath>$(SEBinDir)/HavokWrapper.dll</HintPath>
-            <Private>false</Private>
-        </Reference>
+
         <Reference Include="Microsoft.CodeAnalysis">
             <HintPath>$(SEBinDir)/Microsoft.CodeAnalysis.dll</HintPath>
             <Private>false</Private>

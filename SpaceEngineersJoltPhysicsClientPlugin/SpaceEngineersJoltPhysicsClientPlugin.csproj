@@ -15,7 +15,10 @@
     <Import Project="..\SpaceEngineers.props" />
 
     <ItemGroup>
-        <ProjectReference Include="..\Havok\Havok.csproj" />
+        <ProjectReference Include="..\Havok\Havok.csproj">
+            <Private>true</Private>
+            <CopyLocalSatelliteAssemblies>false</CopyLocalSatelliteAssemblies>
+        </ProjectReference>
     </ItemGroup>
 
     <ItemGroup>

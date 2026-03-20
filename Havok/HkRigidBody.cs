@@ -50,5 +50,7 @@ namespace Havok {
         public void SetCustomVelocity(Vector3 velocity, bool valid) => throw new NotImplementedException();
         public bool GetCustomVelocity(ref Vector3 velocity) => throw new NotImplementedException();
         public HkRigidBody(IntPtr body) { /* Initialize Jolt Equivalent Here */ }
+        
+        internal static HkRigidBody Get(IntPtr bodyHandle) => throw new NotImplementedException();
     }
 }

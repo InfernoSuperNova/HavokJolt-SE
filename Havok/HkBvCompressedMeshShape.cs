@@ -10,6 +10,7 @@ namespace Havok {
         public HkBvCompressedMeshShape(HkSimpleMeshShape simpleMesh) { /* Initialize Jolt Equivalent Here */ }
         public HkBvCompressedMeshShape(HkGeometry geometry, Span<HkConvexShape> shapes, Span<Matrix> transforms, PerPrimitiveDataMode materialDataMode, HkWeldingType weldingType) { /* Initialize Jolt Equivalent Here */ }
         public HkBvCompressedMeshShape(HkGeometry geometry, Span<HkConvexShape> shapes, Span<Matrix> transforms, HkWeldingType weldingType, PerPrimitiveDataMode materialDataMode, Nullable<float> convexRadius) { /* Initialize Jolt Equivalent Here */ }
+
         public unsafe HkBvCompressedMeshShape(Vector3* vertices, int verticesCount, int* indices, int indicesCount, byte* materials, int materialsCount, HkWeldingType weldingType, float convexRadius) { /* Initialize Jolt Equivalent Here */ }
         public void GetGeometry(HkGeometry result) => throw new NotImplementedException();
         public static implicit operator HkShape(HkBvCompressedMeshShape shape) => throw new NotImplementedException();
