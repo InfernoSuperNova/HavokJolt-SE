@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net10.0": {
+      "JoltPhysicsSharp": {
+        "type": "Direct",
+        "requested": "[2.20.1, )",
+        "resolved": "2.20.1",
+        "contentHash": "H2lTymXbkXxbcrB5u0b9yyZ8FeAD42np1JkNaBbtH4hKyqmmYjVzNexbW1rrFazUJjaVGg0VJ8tecmNmNTBdxQ==",
+        "dependencies": {
+          "JoltPhysics.Native": "1.0.9"
+        }
+      },
+      "Lib.Harmony": {
+        "type": "Direct",
+        "requested": "[2.2.2, )",
+        "resolved": "2.2.2",
+        "contentHash": "70KvWz+DiUELxafsYL/LHxA/jH3PDWeApLo/VwtnrpTvRWQ/eUdPfS/l5funmhZWOy41QXw6UjVv+6C57Nx77A==",
+        "dependencies": {
+          "MonoMod.Common": "22.6.3.1"
+        }
+      },
+      "JoltPhysics.Native": {
+        "type": "Transitive",
+        "resolved": "1.0.9",
+        "contentHash": "dQvX+zPXnrCBVJhWZLFF08AxdrPwge9bMjt17J3C3q2IdvuU4mDxV2KpNpiEjq43yZ5KaP5kZrQ2vFbFRNQw+Q=="
+      },
+      "Mono.Cecil": {
+        "type": "Transitive",
+        "resolved": "0.11.4",
+        "contentHash": "IC1h5g0NeJGHIUgzM1P82ld57knhP0IcQfrYITDPXlNpMYGUrsG5TxuaWTjaeqDNQMBDNZkB8L0rBnwsY6JHuQ=="
+      },
+      "MonoMod.Common": {
+        "type": "Transitive",
+        "resolved": "22.6.3.1",
+        "contentHash": "7CUFpelStpHwdWhIJrwyn56f1IXe3OLrNc9oytWIvBu6mAFT4ELqH1o9gVjmMIN6xf1KPl+OTYd0YRUP8wRZ9g==",
+        "dependencies": {
+          "Mono.Cecil": "0.11.4",
+          "System.Reflection.TypeExtensions": "4.7.0"
+        }
+      },
+      "System.Reflection.TypeExtensions": {
+        "type": "Transitive",
+        "resolved": "4.7.0",
+        "contentHash": "VybpaOQQhqE6siHppMktjfGBw1GCwvCqiufqmP8F1nj7fTUNtW35LOEt3UZTEsECfo+ELAl/9o9nJx3U91i7vA=="
+      }
+    }
+  }
+}

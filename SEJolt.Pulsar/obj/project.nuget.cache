@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "3onG4/XIq8c=",
+  "success": true,
+  "projectFilePath": "/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/SEJolt.Pulsar/SEJolt.Pulsar.csproj",
+  "expectedPackageFiles": [
+    "/home/deltawing/.nuget/packages/joltphysics.native/1.0.9/joltphysics.native.1.0.9.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/joltphysicssharp/2.20.1/joltphysicssharp.2.20.1.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/lib.harmony/2.2.2/lib.harmony.2.2.2.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/mono.cecil/0.11.4/mono.cecil.0.11.4.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/monomod.common/22.6.3.1/monomod.common.22.6.3.1.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/system.reflection.typeextensions/4.7.0/system.reflection.typeextensions.4.7.0.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/microsoft.netcore.app.ref/10.0.4/microsoft.netcore.app.ref.10.0.4.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

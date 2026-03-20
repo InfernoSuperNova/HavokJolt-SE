@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+    <Id>InfernoSuperNova/HavokJolt-SE</Id>
+    <FriendlyName>HavokJolt-SE</FriendlyName>
+    <Author>DeltaWing</Author>
+    <Tooltip>Does physics shit or something</Tooltip>
+    <Description> Fuck you</Description>
+    <Commit>f3d7e39d7c7c4aaaf7b8db9e880b8e9ca0bf518c</Commit>
+</PluginData>

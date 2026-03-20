@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Name>Plugin.Torch</Name>
+    <Guid>1C0CD0FE-FDF0-4C98-A459-DBE69DAC9C7E</Guid>
+    <Version>v1.0.0</Version>
+</PluginManifest>

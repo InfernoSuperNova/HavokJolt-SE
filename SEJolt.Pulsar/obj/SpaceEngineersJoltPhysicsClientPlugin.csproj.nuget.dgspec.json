@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/SpaceEngineersJoltPhysicsClientPlugin/SpaceEngineersJoltPhysicsClientPlugin.csproj": {}
+  },
+  "projects": {
+    "/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/JoltPhysics.Interfaces/JoltPhysics.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/JoltPhysics.Interfaces/JoltPhysics.Interfaces.csproj",
+        "projectName": "JoltPhysics.Interfaces",
+        "projectPath": "/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/JoltPhysics.Interfaces/JoltPhysics.Interfaces.csproj",
+        "packagesPath": "/home/deltawing/.nuget/packages/",
+        "outputPath": "/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/JoltPhysics.Interfaces/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/deltawing/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "/home/deltawing/MyLocalNugetSource": {},
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/SpaceEngineersJoltPhysicsClientPlugin/SpaceEngineersJoltPhysicsClientPlugin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/SpaceEngineersJoltPhysicsClientPlugin/SpaceEngineersJoltPhysicsClientPlugin.csproj",
+        "projectName": "SpaceEngineersJoltPhysicsClientPlugin",
+        "projectPath": "/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/SpaceEngineersJoltPhysicsClientPlugin/SpaceEngineersJoltPhysicsClientPlugin.csproj",
+        "packagesPath": "/home/deltawing/.nuget/packages/",
+        "outputPath": "/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/SpaceEngineersJoltPhysicsClientPlugin/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/deltawing/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "/home/deltawing/MyLocalNugetSource": {},
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/JoltPhysics.Interfaces/JoltPhysics.Interfaces.csproj": {
+                "projectPath": "/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/JoltPhysics.Interfaces/JoltPhysics.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Lib.Harmony": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

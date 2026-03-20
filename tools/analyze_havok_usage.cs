@@ -1,4 +1,4 @@
-// Space Engineers Jolt Physics — HavokWrapper Usage Analyzer
+// Space Engineers JoltPhysics.Wrappers Physics — HavokWrapper Usage Analyzer
 //
 // Run after game updates to detect new/changed/removed Havok call sites.
 //

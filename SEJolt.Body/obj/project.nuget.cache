@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0N281gFz8bA=",
+  "success": true,
+  "projectFilePath": "/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/SEJolt.Body/SEJolt.Body.csproj",
+  "expectedPackageFiles": [
+    "/home/deltawing/.nuget/packages/joltphysics.native/1.0.9/joltphysics.native.1.0.9.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/joltphysicssharp/2.20.1/joltphysicssharp.2.20.1.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/microsoft.netcore.app.ref/10.0.4/microsoft.netcore.app.ref.10.0.4.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
