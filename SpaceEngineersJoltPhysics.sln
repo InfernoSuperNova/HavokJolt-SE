@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceEngineersJoltPhysics", "SpaceEngineersJoltPhysics\SpaceEngineersJoltPhysics.csproj", "{6E17F0A2-79D1-4061-9E72-B85E1D0CCA16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Havok", "Havok\Havok.csproj", "{A87B5CA6-CBD4-4DD6-99D2-A56577AE7DAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceEngineersJoltPhysicsClientPlugin", "SpaceEngineersJoltPhysicsClientPlugin\SpaceEngineersJoltPhysicsClientPlugin.csproj", "{5C6C70CC-2C8D-4E09-9B82-8B6A09514084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E17F0A2-79D1-4061-9E72-B85E1D0CCA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E17F0A2-79D1-4061-9E72-B85E1D0CCA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E17F0A2-79D1-4061-9E72-B85E1D0CCA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E17F0A2-79D1-4061-9E72-B85E1D0CCA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A87B5CA6-CBD4-4DD6-99D2-A56577AE7DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87B5CA6-CBD4-4DD6-99D2-A56577AE7DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87B5CA6-CBD4-4DD6-99D2-A56577AE7DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87B5CA6-CBD4-4DD6-99D2-A56577AE7DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C6C70CC-2C8D-4E09-9B82-8B6A09514084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6C70CC-2C8D-4E09-9B82-8B6A09514084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6C70CC-2C8D-4E09-9B82-8B6A09514084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6C70CC-2C8D-4E09-9B82-8B6A09514084}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

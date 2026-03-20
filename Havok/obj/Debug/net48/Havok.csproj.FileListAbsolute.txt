@@ -1,0 +1,14 @@
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/bin/Debug/net48/Havok.dll
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/bin/Debug/net48/Havok.pdb
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/bin/Debug/net48/System.Buffers.dll
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/bin/Debug/net48/System.Memory.dll
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/bin/Debug/net48/System.Numerics.Vectors.dll
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/bin/Debug/net48/System.Runtime.CompilerServices.Unsafe.dll
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/obj/Debug/net48/Havok.csproj.AssemblyReference.cache
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/obj/Debug/net48/Havok.GeneratedMSBuildEditorConfig.editorconfig
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/obj/Debug/net48/Havok.AssemblyInfoInputs.cache
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/obj/Debug/net48/Havok.AssemblyInfo.cs
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/obj/Debug/net48/Havok.csproj.CoreCompileInputs.cache
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/obj/Debug/net48/Havok.csproj.Up2Date
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/obj/Debug/net48/Havok.dll
+/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/Havok/obj/Debug/net48/Havok.pdb

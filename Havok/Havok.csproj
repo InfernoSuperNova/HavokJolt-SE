@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net48</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PlatformTarget>x64</PlatformTarget>
+        <LangVersion>12</LangVersion>
+        <UseWpf>true</UseWpf>
+        <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
+        <RestoreAdditionalProjectSources>https://nuget.storage.yandexcloud.net/index.json</RestoreAdditionalProjectSources>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+        <DebugType>none</DebugType>
+    </PropertyGroup>
+
+    <Import Project="..\SpaceEngineers.props" />
+
+    <ItemGroup>
+        <PackageReference Include="System.Memory" Version="4.6.3" />
+        <PackageReference Include="PolySharp" Version="1.*">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+    </ItemGroup>
+
+</Project>

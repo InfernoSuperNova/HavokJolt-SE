@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = SpaceEngineersJoltPhysicsClientPlugin
+build_property.ProjectDir = /home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/SpaceEngineersJoltPhysicsClientPlugin/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

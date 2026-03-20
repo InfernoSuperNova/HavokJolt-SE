@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CnT+NVn3Axc=",
+  "success": true,
+  "projectFilePath": "/home/deltawing/RiderProjects/SpaceEngineersJoltPhysics/SpaceEngineersJoltPhysicsClientPlugin/SpaceEngineersJoltPhysicsClientPlugin.csproj",
+  "expectedPackageFiles": [
+    "/home/deltawing/.nuget/packages/lib.harmony/2.2.2/lib.harmony.2.2.2.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/system.buffers/4.6.1/system.buffers.4.6.1.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/system.memory/4.6.3/system.memory.4.6.3.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/system.numerics.vectors/4.6.1/system.numerics.vectors.4.6.1.nupkg.sha512",
+    "/home/deltawing/.nuget/packages/system.runtime.compilerservices.unsafe/6.1.2/system.runtime.compilerservices.unsafe.6.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
